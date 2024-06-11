@@ -23,13 +23,6 @@ https://alvless.comorg.us.kg/CMLiu
 https://altrojan.comorg.us.kg/CMLiu
 https://moistr.freenods.sbs/mianfeicf
 https://moist.freenods.sbs/Trojan
-https://chromego-sub.netlify.app/sub/base64.txt
-https://subs.zeabur.app/clash
-https://neko-warp.nloli.xyz/neko_warp.yaml
-https://shadowmere.akiel.dev/api/b64sub
-https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
-https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt
 `
 
 let urls = [];
